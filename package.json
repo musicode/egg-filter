@@ -1,6 +1,6 @@
 {
   "name": "egg-filter",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "filter params",
   "main": "index.js",
   "scripts": {
